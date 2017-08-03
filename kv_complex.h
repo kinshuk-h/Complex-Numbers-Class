@@ -4,7 +4,7 @@
 ///
 /// Made By         -            Kinshuk Vasisht
 /// Version         -            3.0.5 - (v1.0.0 Created 08th March, 2017)
-/// Status          -            0xFFFFFF (Complete)
+/// Status          -            0xFFFFF0 (Complete, Suggestions Welcome ^_^)
 /// Features        -            Complex Number Operations, Radian <-> Degree Conversion,
 /// Overloads       -            Generic Templates and Multiple Declarations...
 /// Functions       -            radtodeg(), degtorad(),  Signum(), Complex Class Methods ...
